@@ -1,4 +1,5 @@
 > [!IMPORTANT]
+> **THIS IS FOR THE GAME ROBLOX RIVALS!!!**
 > **This project is actively maintained.**
 >
 > The loader always fetches the latest version directly from GitHub, so you don't need to manually update your script after new releases.
